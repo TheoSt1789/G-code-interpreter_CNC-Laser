@@ -31,7 +31,7 @@ unsigned int8 uFeedrate = 0;            // Feedrate
 unsigned int8 uParameter;
 unsigned int8 uPointer;
 //unsigned int8 uSteps = 170;             // Con 1/16 microsteps
-unsigned int8 uSteps = 1;             // Con 1/16 microsteps
+unsigned int8 uSteps = 1;               // Con 1/16 microsteps
 
 unsigned int16 uPosX = 0;               // Coordenadas en X
 unsigned int16 uPosY = 0;               // Coordenadas en Y
